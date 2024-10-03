@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "ap",
+    "entryPoint": "./App.tsx",
     "slug": "ap",
     "version": "1.0.0",
     "orientation": "portrait",
